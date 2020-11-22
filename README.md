@@ -1,0 +1,1 @@
+# Blender modeling exercises for practice
